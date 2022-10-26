@@ -1,0 +1,71 @@
+
+#container {
+    background-color: #0081C6;
+    padding-bottom: 70%;
+
+}
+
+table {
+ padding: 5%;
+
+}
+
+#button {
+    padding: 5px;
+    background-color: #194886;
+    color:white;
+
+}
+
+#button:hover {
+
+    background-color: #3BD6EA;
+    color:white;
+
+}
+
+#table {
+    padding: 20px;
+
+    font-family: fira-sans,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+h1 {
+    color: white;
+    margin-bottom: -2%;
+
+    font-family: fira-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+div {
+    font-family: fira-sans,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+#discription {
+    margin-left: auto;
+    margin-right: auto;
+    width: 520px;
+    color: white;
+    text-align: left;
+
+    font-family: fira-sans,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#textbox {
+    background-color: white;
+    
+    font-family: fira-sans,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
