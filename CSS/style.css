@@ -1,0 +1,45 @@
+
+#container {
+    background-color: #0081C6;
+    padding-bottom: 70%;
+
+}
+
+
+
+h1 {
+    color: white;
+    margin-bottom: -.01%;
+
+    font-family: fira-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+div {
+    font-family: fira-sans,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+#discription {
+    margin-left: auto;
+    margin-right: auto;
+    width: 520px;
+    color: white;
+    text-align: left;
+
+    font-family: fira-sans,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#textbox {
+    background-color: white;
+    
+     font-family: fira-sans,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
